@@ -12,8 +12,8 @@ public class PlayerMasterMover : MonoBehaviour {
     private bool doubleTappingNow = false;
     private PlayerControls playerMeshScript;
     public GameObject playerBounceNode;
-    public GameObject shouldBeDeadDebugIndicator;   // Some shit to visualize the state of peril
-    public GameObject gameOverIndicator;            // skull, argh!
+    public GameObject shouldBeDeadDebugIndicator;   // to visualize the state of peril
+    public GameObject gameOverIndicator;            // skull, 
 
     public GameObject playerMesh;
     private GameObject flowManager;  // need to chat
